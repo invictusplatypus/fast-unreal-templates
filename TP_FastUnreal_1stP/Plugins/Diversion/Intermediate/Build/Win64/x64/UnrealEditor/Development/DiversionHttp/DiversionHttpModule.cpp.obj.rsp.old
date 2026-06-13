@@ -1,0 +1,14 @@
+"D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Source/DiversionHTTP/Private/DiversionHttpModule.cpp"
+@"D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/DiversionHttp/DiversionHttp.Shared.rsp"
+/FI"D:/Repositories/FastUnrealTemplate/Intermediate/Build/Win64/x64/TP_FastUnrealEditor/Development/Slate/SharedPCH.Slate.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/DiversionHttp/Definitions.DiversionHttp.h"
+/Yu"D:/Repositories/FastUnrealTemplate/Intermediate/Build/Win64/x64/TP_FastUnrealEditor/Development/Slate/SharedPCH.Slate.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"D:/Repositories/FastUnrealTemplate/Intermediate/Build/Win64/x64/TP_FastUnrealEditor/Development/Slate/SharedPCH.Slate.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/DiversionHttp/DiversionHttpModule.cpp.obj"
+/experimental:log "D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/DiversionHttp/DiversionHttpModule.cpp.sarif"
+/sourceDependencies "D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/DiversionHttp/DiversionHttpModule.cpp.dep.json"
+/nologo
+/TP
+/GR-
+/std:c++20
+/wd5054

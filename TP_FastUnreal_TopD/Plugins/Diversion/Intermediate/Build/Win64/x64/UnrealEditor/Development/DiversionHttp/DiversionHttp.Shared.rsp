@@ -1,0 +1,89 @@
+/X
+/nologo
+/Oi
+/FC
+/diagnostics:caret
+/c
+/Gw
+/Gy
+/utf-8
+/wd4819
+/DSAL_NO_ATTRIBUTE_DECLARATIONS=1
+/permissive-
+/Zc:strictStrings-
+/Zc:__cplusplus
+/Zc:inline
+/Zc:preprocessor
+/D_WINDLL
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/Ob2
+/d2ExtendedWarningInfo
+/Ox
+/Ot
+/GF
+/errorReport:prompt
+/EHsc
+/DPLATFORM_EXCEPTIONS_DISABLED=0
+/Z7
+/MD
+/bigobj
+/dximplicitlyinstantiatevirtualfunction-
+/fp:fast
+/Zo
+/Zp8
+/W4
+/we4456
+/we4458
+/we4459
+/wd4244
+/wd4838
+/we4668
+/we4702
+/wd4267
+/wd4100
+/I "."
+/I "D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Source/DiversionHTTP/Private"
+/I "Runtime/Core/Public"
+/I "Runtime/TraceLog/Public"
+/I "Runtime/AutoRTFM/Public"
+/I "Runtime/Json/Public"
+/I "Runtime/Projects/Public"
+/I "../Intermediate/Build/Win64/UnrealEditor/Inc/Slate/UHT"
+/I "Runtime/Slate/Public"
+/I "../Intermediate/Build/Win64/UnrealEditor/Inc/CoreUObject/UHT"
+/I "../Intermediate/Build/Win64/UnrealEditor/Inc/CoreUObject/VerseVMBytecode"
+/I "Runtime/CoreUObject/Public"
+/I "Runtime/CorePreciseFP/Public"
+/I "../Intermediate/Build/Win64/UnrealEditor/Inc/InputCore/UHT"
+/I "Runtime/InputCore/Classes"
+/I "Runtime/InputCore/Public"
+/I "../Intermediate/Build/Win64/UnrealEditor/Inc/SlateCore/UHT"
+/I "Runtime/SlateCore/Public"
+/I "../Intermediate/Build/Win64/UnrealEditor/Inc/DeveloperSettings/UHT"
+/I "Runtime/DeveloperSettings/Public"
+/I "Runtime/ApplicationCore/Public"
+/I "Runtime/RHI/Public"
+/I "Runtime/ImageWrapper/Public"
+/I "../Intermediate/Build/Win64/UnrealEditor/Inc/ImageCore/UHT"
+/I "Runtime/ImageCore/Public"
+/I "D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/UnrealEditor/Inc/Common/UHT"
+/I "D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Source"
+/I "D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Source/Common/Public"
+/I "D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Source/ThirdParty"
+/I "D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Source/DiversionHTTP/Public"
+/I "D:/Repositories/FastUnrealTemplate/Intermediate/Build/Win64/x64/TP_FastUnreal_BlankEditor/Development/Slate"
+/external:W0
+/external:I "ThirdParty/GuidelinesSupportLibrary/GSL-1144/include"
+/external:I "ThirdParty/AtomicQueue"
+/external:I "ThirdParty/RapidJSON/1.1.0"
+/external:I "ThirdParty/OpenSSL/1.1.1t/include/Win64/VS2015"
+/external:I "ThirdParty/zlib/1.3/include"
+/external:I "ThirdParty/zlib/1.3/include/minizip"
+/external:I "ThirdParty/Boost/Deploy/boost-1.88.0/include"
+/external:I "ThirdParty/LibTiff/Source/Win64"
+/external:I "ThirdParty/LibTiff/Source"
+/external:I "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/INCLUDE"
+/external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt"
+/external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/shared"
+/external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/um"
+/external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/winrt"

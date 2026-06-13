@@ -1,0 +1,11 @@
+"D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Source/Common/Private/DiversionCommonUtils.cpp"
+@"D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/Common/Common.Shared.rsp"
+/FI"D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/Common/Definitions.h"
+/Fo"D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/Common/DiversionCommonUtils.cpp.obj"
+/experimental:log "D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/Common/DiversionCommonUtils.cpp.sarif"
+/sourceDependencies "D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/Common/DiversionCommonUtils.cpp.dep.json"
+/nologo
+/TP
+/GR-
+/std:c++20
+/wd5054

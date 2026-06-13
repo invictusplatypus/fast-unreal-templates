@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\repositories\\fastunrealtemplate\\plugins\\diversion\\source\\changeswatcher\\private\\changeswatchermodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\repositories\\fastunrealtemplate\\intermediate\\build\\win64\\x64\\tp_fastunreal_blankeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\repositories\\fastunrealtemplate\\plugins\\diversion\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\changeswatcher\\definitions.changeswatcher.h",
+            "d:\\repositories\\fastunrealtemplate\\plugins\\diversion\\source\\changeswatcher\\private\\changeswatchermodule.h",
+            "d:\\repositories\\fastunrealtemplate\\plugins\\diversion\\source\\changeswatcher\\private\\changeswatcher.h",
+            "d:\\repositories\\fastunrealtemplate\\plugins\\diversion\\source\\common\\public\\diversionconfig.h",
+            "d:\\repositories\\fastunrealtemplate\\plugins\\diversion\\intermediate\\build\\win64\\unrealeditor\\inc\\common\\uht\\diversionconfig.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

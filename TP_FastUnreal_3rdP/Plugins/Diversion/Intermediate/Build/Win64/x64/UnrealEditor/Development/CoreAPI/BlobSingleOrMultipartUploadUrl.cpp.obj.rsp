@@ -1,0 +1,11 @@
+"D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Source/CoreAPI/Private/BlobSingleOrMultipartUploadUrl.cpp"
+@"D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreAPI/CoreAPI.Shared.rsp"
+/FI"D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreAPI/Definitions.h"
+/Fo"D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreAPI/BlobSingleOrMultipartUploadUrl.cpp.obj"
+/experimental:log "D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreAPI/BlobSingleOrMultipartUploadUrl.cpp.sarif"
+/sourceDependencies "D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreAPI/BlobSingleOrMultipartUploadUrl.cpp.dep.json"
+/nologo
+/TP
+/GR-
+/std:c++20
+/wd5054

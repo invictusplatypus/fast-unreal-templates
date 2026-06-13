@@ -1,0 +1,12 @@
+{
+	"BuildId": "53629095",
+	"Modules": 
+	{
+		"AgentAPI": "UnrealEditor-AgentAPI.dll",
+		"ChangesWatcher": "UnrealEditor-ChangesWatcher.dll",
+		"Common": "UnrealEditor-Common.dll",
+		"CoreAPI": "UnrealEditor-CoreAPI.dll",
+		"Diversion": "UnrealEditor-Diversion.dll",
+		"DiversionHttp": "UnrealEditor-DiversionHttp.dll"
+	}
+}

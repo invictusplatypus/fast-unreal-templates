@@ -1,0 +1,18 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Common.cpp.obj": [
+			"Common.init.gen.cpp.obj",
+			"DiversionConfig.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"CommonModule.cpp.obj",
+			"DiversionAgentAddress.cpp.obj",
+			"DiversionCommonUtils.cpp.obj",
+			"DiversionConfig.cpp.obj",
+			"DiversionValidityUtils.cpp.obj",
+			"NotificationManager.cpp.obj",
+			"DiversionAgentAddressTests.cpp.obj",
+			"DiversionCommonUtilsTests.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,11 @@
+"D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Source/AgentAPI/Private/OpenWorkspaceFileParams.cpp"
+@"D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/AgentAPI/AgentAPI.Shared.rsp"
+/FI"D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/AgentAPI/Definitions.h"
+/Fo"D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/AgentAPI/OpenWorkspaceFileParams.cpp.obj"
+/experimental:log "D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/AgentAPI/OpenWorkspaceFileParams.cpp.sarif"
+/sourceDependencies "D:/Repositories/FastUnrealTemplate/Plugins/Diversion/Intermediate/Build/Win64/x64/UnrealEditor/Development/AgentAPI/OpenWorkspaceFileParams.cpp.dep.json"
+/nologo
+/TP
+/GR-
+/std:c++20
+/wd5054

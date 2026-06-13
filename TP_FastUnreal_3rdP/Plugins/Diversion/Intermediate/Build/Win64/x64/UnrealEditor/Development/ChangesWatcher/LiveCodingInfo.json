@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ChangesWatcher.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"ChangeBatcher.cpp.obj",
+			"ChangesWatcher.cpp.obj",
+			"ChangesWatcherModule.cpp.obj"
+		]
+	}
+}
