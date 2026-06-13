@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Repositories\\Fast Unreal Templates\\TP_FastUnreal_1stP\\Source\\TP_FastUnreal_1stP\\TP_FastUnreal_1stP.Build.cs",
+		"D:\\Repositories\\Fast Unreal Templates\\TP_FastUnreal_1stP\\Source\\TP_FastUnreal_1stP.Target.cs",
+		"D:\\Repositories\\Fast Unreal Templates\\TP_FastUnreal_1stP\\Source\\TP_FastUnreal_1stPEditor.Target.cs"
+	],
+	"EngineVersion": "5.8.0"
+}
