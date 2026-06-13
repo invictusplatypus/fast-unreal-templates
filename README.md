@@ -1,7 +1,7 @@
 # fast-unreal-templates
 A collection of unreal templates with a ton of expensive render settings turned off as well as most plugins.
 
-Instructions: Install the templates into your unreal engine project. 
+Instructions: Install the templates into your unreal engine installation/Templates directory (i.e. 5.9/Templates). 
 This was built with binary version of unreal engine 5.8. 
 You may have to do some finagling to get it to work for other engine versions. 
 
