@@ -1285,6 +1285,11 @@ bool FDiversionProvider::UsesSnapshots() const
 	return false;
 }
 
+bool FDiversionProvider::UsesSoftRevertOnDelete() const
+{
+	return false;
+}
+
 bool FDiversionProvider::AllowsDiffAgainstDepot() const
 {
 	return true;
